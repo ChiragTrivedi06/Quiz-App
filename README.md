@@ -17,7 +17,18 @@ A desktop-based Quiz Application built using **Core Java (Swing & AWT)** that al
 
 ## 📸 Screenshots
 
-> _You can add screenshots of each window here (Login, Rules, Quiz, Result)_
+### 🔐 Login Window
+![Login](ScreenSort/Login.png)
+
+### 📜 Rules Window
+![Rules](ScreenSort/Rule.png)
+
+### ❓ Quiz Window
+![Quiz](ScreenSort/Quiz.png)
+
+### 📊 Result Window
+![Result](ScreenSort/Result.png)
+
 
 ---
 
